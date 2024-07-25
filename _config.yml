@@ -3,11 +3,12 @@ description: "A description of your site"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://urban5.github.io" # the base hostname & protocol for your site
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
 markdown: kramdown
 

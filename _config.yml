@@ -1,0 +1,37 @@
+title: "Your Site Title"
+description: "A description of your site"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://urban5.github.io" # the base hostname & protocol for your site
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+
+collections:
+  malware_analysis:
+    output: true
+    permalink: /malware_analysis/:path/
+  application_pentesting:
+    output: true
+    permalink: /application_pentesting/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: malware_analysis
+    values:
+      layout: single
+      category: malware_analysis
+  - scope:
+      path: ""
+      type: application_pentesting
+    values:
+      layout: single
+      category: application_pentesting
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: dark

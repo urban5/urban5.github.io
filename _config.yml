@@ -1,4 +1,4 @@
-title: "Your Site Title"
+title: "Desktop and Mobile Malware Analysis"
 description: "A description of your site"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://urban5.github.io" # the base hostname & protocol for your site
@@ -9,6 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-toc
 
 markdown: kramdown
 
@@ -33,6 +34,13 @@ defaults:
     values:
       layout: single
       category: application_pentesting
+
+jekyll_toc:
+  auto_insert: true
+  no_back_to_top: true
+  list_class: "toc__menu"
+  min_level: 1
+  max_level: 6
 
 # Minimal Mistakes settings
 minimal_mistakes_skin: dark

@@ -5,8 +5,8 @@ var store = [{
         "url": "/application_pentesting/2024-07-25-first-application-pentesting-post/",
         "teaser": null
       },{
-        "title": "Analyzing the Sample Malware",
-        "excerpt":"In this post, we will analyze a sample piece of malware to understand its behavior and characteristics. Introduction Malware analysis involves examining the code, behavior, and other attributes of a malware sample to understand its purpose and functionality. Step 1: Static Analysis Static analysis involves examining the malware without executing...","categories": ["malware_analysis"],
+        "title": "Attacking Android Malware with Frida",
+        "excerpt":"In this blog post, I will showcase how Frida, a popular dynamic instrumentation framework, can be utilized for Android malware analysis across three distinct real world malware samples. What is Frida? Even while being predominantly recognized as a mobile application pentesting utility, Frida proves equally effective in mobile malware analysis...","categories": ["malware_analysis"],
         "tags": [],
         "url": "/malware_analysis/2024-07-25-first-malware-analysis-post/",
         "teaser": null

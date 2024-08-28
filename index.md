@@ -227,7 +227,7 @@ author_profile: true
 
     <div class="container">
         <div class="post-blog-card">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/200px-Windows_logo_-_2012.svg.png" alt="Windows Logo" class="windows-logo" />
+            <img src="https://i.imgur.com/uFJ1iMQ.png" alt="Windows Logo" class="windows-logo" />
             <div class="post-meta">
                 <div class="post-ribbon">
                     <span class="post-ribbon4"></span>
@@ -238,17 +238,17 @@ author_profile: true
             </div>
             <div class="post-description">
                 <h1>Windows Malware API Resolving</h1>
-                <p>Article currently in the process of writing.</p>
+                <p>Coming soon.</p>
                 <div class="post-footer">
-                    <p class="post-date page__meta"><i class="fas fa-calendar-alt"></i> 10 May 2024</p>
-                    <p class="post-time page__meta"><i class="fas fa-clock"></i> 26 minute read</p>
+                    <p class="post-date page__meta"><i class="fas fa-calendar-alt"></i>September 2024</p>
+                    <p class="post-time page__meta"><i class="fas fa-clock"></i> 14 minute read</p>
                 </div>
             </div>
         </div>
 
         <div class="post-blog-card post-blog-card-android" onclick="window.location.href='/malware_analysis/2024-07-25-first-malware-analysis-post/'">
 
-            <img src="https://cdn.freebiesupply.com/logos/large/2x/android-logo-png-transparent.png" alt="Android Logo" class="android-logo" />
+            <img src="https://i.imgur.com/H72sbVN.png" alt="Android Logo" class="android-logo" />
             <div class="post-meta">
                 <div class="post-ribbon">
                     <span class="post-ribbon4 post-ribbon4-android"></span>
@@ -261,7 +261,7 @@ author_profile: true
                 <h1>Attacking Android Malware with Frida</h1>
                 <p>Frida for Malware Reverse Engineering</p>
                 <div class="post-footer">
-                    <p class="post-date page__meta"><i class="fas fa-calendar-alt"></i> 26 July 2024</p>
+                    <p class="post-date page__meta"><i class="fas fa-calendar-alt"></i> 28 August 2024</p>
                     <p class="post-time page__meta"><i class="fas fa-clock"></i> 10 minute read</p>
                 </div>
             </div>

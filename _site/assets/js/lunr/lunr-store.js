@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Attacking Android Malware with Frida",
-        "excerpt":"In this blog post, I will showcase how Frida, a popular dynamic instrumentation framework, can be utilized for Android malware analysis across three distinct real world malware samples. What is Frida? Even while being predominantly recognized as a mobile application pentesting utility, Frida proves equally effective in mobile malware analysis...","categories": ["malware_analysis"],
+        "excerpt":"In this blog post, I will showcase how Frida, a popular open source dynamic instrumentation framework, can be utilized for Android malware analysis across three distinct real world malware samples. Isn’t Frida a pentesting tool? Despite the fact that Frida is primarily known as a mobile application pentesting utility, it...","categories": ["malware_analysis"],
         "tags": [],
         "url": "/malware_analysis/2024-07-25-first-malware-analysis-post/",
         "teaser": null

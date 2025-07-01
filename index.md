@@ -226,7 +226,7 @@ author_profile: true
 <body>
 
     <div class="container">
-        <div class="post-blog-card">
+        <div class="post-blog-card" onclick="window.location.href='/malware_analysis/2025-06-30-secondblog-python-malware-reversing/'">
             <img src="https://i.imgur.com/uFJ1iMQ.png" alt="Windows Logo" class="windows-logo" />
             <div class="post-meta">
                 <div class="post-ribbon">
@@ -234,14 +234,14 @@ author_profile: true
                 </div>
             </div>
             <div class="post-image-container">
-                <img src="https://i.imgur.com/HeKi1VH.png" alt="NoEscape Ransomware" class="post-image" />
+                <img src="https://i.imgur.com/syNJ4fI.png" alt="Python Malware" class="post-image" />
             </div>
             <div class="post-description">
-                <h1>Windows Malware API Resolving</h1>
-                <p>Coming soon.</p>
+                <h1>Four Ways to Reverse Pyhton Malware</h1>
+                <p>Reversing PYC Malware</p>
                 <div class="post-footer">
-                    <p class="post-date page__meta"><i class="fas fa-calendar-alt"></i>September 2024</p>
-                    <p class="post-time page__meta"><i class="fas fa-clock"></i> 14 minute read</p>
+                    <p class="post-date page__meta"><i class="fas fa-calendar-alt"></i>July 2025</p>
+                    <p class="post-time page__meta"><i class="fas fa-clock"></i> 10 minute read</p>
                 </div>
             </div>
         </div>

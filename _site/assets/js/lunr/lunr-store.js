@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/malware_analysis/2024-07-25-first-malware-analysis-post/",
         "teaser": null
+      },{
+        "title": "Four Ways to Reverse Python Malware",
+        "excerpt":"The Rise of Python Malware in 2025 In the past year, we have observed an increasing trend of Python-compiled malware spread in LLM-generated phishing campaigns. Those phishing messages most often contain URL shorteners or cloud storage links, such as Dropbox, that lead to the download of malicious ZIP archives. While...","categories": ["malware_analysis"],
+        "tags": [],
+        "url": "/malware_analysis/2025-06-30-secondblog-python-malware-reversing/",
+        "teaser": null
       },]
